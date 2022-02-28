@@ -1,0 +1,989 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The mystery of iniquity somewhat laid open: in a letter to the present Governour wherein is also contained an history and recital and proposal of sundry things to be made known and remembred, and to be done accordingly. In that letter which I carried to thing house at Kensington on November 3. 1691. which was there burnt (as near as I can remember) the words contained therein was to this following effect, viz.</title>
+            <author>Stafford, Richard, 1663-1703.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 69 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93745</idno>
+            <idno type="STC">Wing S5124</idno>
+            <idno type="STC">ESTC R232302</idno>
+            <idno type="EEBO-CITATION">99897691</idno>
+            <idno type="PROQUEST">99897691</idno>
+            <idno type="VID">137665</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93745)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 137665)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2520:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The mystery of iniquity somewhat laid open: in a letter to the present Governour wherein is also contained an history and recital and proposal of sundry things to be made known and remembred, and to be done accordingly. In that letter which I carried to thing house at Kensington on November 3. 1691. which was there burnt (as near as I can remember) the words contained therein was to this following effect, viz.</title>
+                  <author>Stafford, Richard, 1663-1703.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[[London :</pubPlace>
+                  <date>Printed on January 7. 1692]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p. 12 by Richard Stafford.</note>
+                  <note>Year of publication from colophon.</note>
+                  <note>Place of publication from Wing CD-ROM, 1996.</note>
+                  <note>Reproductions of original in the British Library and the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian literature --  Early works to 1800.</term>
+               <term>Church and state --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:137665:1" rendition="simple:additions"/>
+            <head>The <hi>Myſtery of Iniquity</hi> ſomewhat laid open: In a Letter to the Preſent <hi>Governour;</hi> wherein is alſo contained an Hiſtory and Recital and Propoſal of Sundry <hi>Things</hi> to be made known and remembred, and to be done accordingly.</head>
+            <head type="sub">In that Letter which I carried to thine Houſe at <hi>Kenſington</hi> on <hi>November</hi> 3. 1691. which was there burnt (as near as I can remember) the words contained therein was to this following Effect, <hi>viz.</hi>
+            </head>
+            <p>THAT I having publiſhed my Book, Entituled, <hi>Things Plain and Weigh<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> &amp;c. There was an obſervable Marginal Note in <hi>Page 12. That God would remove the Government off from thy Shoulders, and yet not hurt thy Perſon:</hi> It was my Duty to make this known unto you as ſoon as ever this was printed and publiſhed; which was before thy laſt Expedition into <hi>Flanders.</hi> But I neglected to do it then for fear thou ſhouldeſt Impriſon me, which now thou haſt done. Yet I was again troubled at this my neglect, leaſt thou going into the Wars, it ſhould happen otherwiſe with thee than I had there written, and ſo the things which belong to thy Peace had been paſſed away and gone from thee for all Eternity: Which was very likely to have come to paſs, when thou ſateſt under a Tree, and ſoon after thou waſt aroſe from thence, a cannon bullet did ſtrike the very place whereon thou ſateſt; if the publick <hi>Gazette</hi> be true that relates it after this manner. Herein thou loveſt thine Enemies and hateſt thy Friends; for thou haſt declared this day in Impriſoning me (who do really and unfeignedly deſire thy Temporal Preſervation, and <note n="*" place="margin">See my printed Letter directed to thee at the <hi>Hague.</hi>
+               </note> that thou mayeſt live out all thoſe days which God hath appointed to the Life of Man upon Earth; and therefore I would admoniſh thee to ceaſe from and not venture thy ſelf, nor ſend others into theſe dan<g ref="char:EOLhyphen"/>gerous Wars) for I do perceive, according to the Mind that then and now thou art in, if according to the Dictates and Inſinuations of thy Fooliſh Flatterers and Admirers. Thou hadſt deſcended into Battel and periſhed there, they would cry it up for Brave and Honorable; and the Thoughts of this vain Glory and Praiſe doth pleaſe thee well and ſpur thee on; though if it had ſo happened, thy mind would have been changed for all Eternity; for thy Soul would ſtill remember, and remain full of Indig<g ref="char:EOLhyphen"/>nation and Wrath. Tribulation and Anguiſh, for what thou ſoughteſt to be commended here on this Earth. But now I do well come and congratulate thy <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e coming here again into <hi>England:</hi> And I do Pray and Hope that it will be exactly ſo done with thee according to that Word which God ſhewed unto me upon one of your appointed publick days of Faſting and Humiliation (which I did then obſerve, not for the Reaſons men<g ref="char:EOLhyphen"/>tioned in thy Proclamation for it, but for the Sins and Hypocriſie of this People, and that I might ſeek and Pray for their Good) This ſame Word which then ſprung up in my Heart, and remained within me for ſeveral Months (the Lord pardon my ſinful Fear and Diſtruſt, in hiding within my Heart and concealing this Truth <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> 4<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. 10. ſo long, for this ought not ſo to have been, I did at length write it down and publiſh it to the Great Congregation, for ſo it would be, if now all were gathered together who have read or heard of this Word. And I came on <hi>November</hi> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> put to thy dwelling place at <hi>Kenſington,</hi> for to ſignifie and make known this (with many other things) unto thee. But inſtead of thy receiving and obſerving the Law and Word of God, thy Servants did burn that Book wherein it was written, and they did Impriſon me for ſome little time in a place where they keep Coals. This was ſomewhat like <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> and <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> in the days of Old, But what came upon him for ſo doing? <hi>Therefore <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſaith the Lord of</hi> Jeho<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <hi>King of</hi> Judah, <hi>He ſhall have none to ſit upon the Throne of</hi> David, <hi>and his dead Body <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> be caſt out in the day to the heat, and in the night <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o t<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Fro<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. And I will puniſh <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and his Seed, and his Servants for their Iniquity. And I will bring upon them, and
+<pb n="2" facs="tcp:137665:2"/> upon the Inhabitants of</hi> Jeruſalem, <hi>and upon the Men of</hi> Judah, <hi>all the Evil that I pro<g ref="char:EOLhyphen"/>nounced againſt them, but they hearkened not,</hi> Jer. 36. 3<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, 31. Now what thy Servants (O thou that art called King <hi>William)</hi> do by thy Command or Approbation, God interprets i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to be thine own Act. And here the former words are viſibly true of thee<g ref="char:punc">▪</g> thou ſhalt have none (that is, Iſſue of thy Body) to ſit upon the Throne of thy Father in Law. As the Lord liveth, and as ſure as now thou liveſt, thy day ſhall come to dye; And though thy dead Body ſhould be interred in the Royal Chappel at <hi>W<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtm<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſter <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>b<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y</hi> among the Ancient Kings of this Nation yet things may ſo alter and turn, that it may be taken up again, and be removed or expoſed to Shame. But moſt ce<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly it ſhall riſe up at the laſt day, and then it may be t<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rown into devouring Fire and everlaſting Burnings, and it may become ſubject unto Gnaſhing of Teeth; which is ten thouſand times worſe than to be caſt out in the day to the Heat<g ref="char:punc">▪</g> and in the night to the Froſt.</p>
+            <p>According to the Proverb <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> muſt be ver<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ad to be worſe th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n a Turk;</hi> But I tell thee Truly and Pla<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nly that the Turks ſhall riſe up in Judgment againſt thee, and condemn thee; for they out of Reverence to th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Great God of Heaven and Earth, will take up any Paper wherein but ſo much as the Name of God is written, and lay it up very carefully, and they will not put it to any common or undecent uſe: So far are they from tearing it, or throw<g ref="char:EOLhyphen"/>ing it upon the Ground or b<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rning it; for the S<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n or Provocation there, ſee<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s to be of <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he ſame nature; as that is o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſe<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> purpoſe to cut, deface or burn the King's Picture; which is eſteemed as a great A<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ront unto him, In like manner, to do ſo unto his Truth (which though clothed and expreſſed in a dead Letter, it doth bear the Image and Superſcription of him that is Inviſible) is a moſt hainous Off<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nce, ſuch as words cannot well expreſs the utmoſt Aggravation thereof. God will anſwer that Man or Woman in a like Puniſhment; for the ſame Word which goes <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orth from him, will be a conſuming Fire to devour its Ad<g ref="char:EOLhyphen"/>verſaries. He ſhall ſpeak and it ſhall be done accordingly; He ſhall give forth the Sentence, by virtue whereof they ſhall go to Hell: So that the ſame manner as a Man ſinned, by the ſame he ſhall be puniſhed. God will puniſh thee and thy Servants (He will bring them out by their Names and by their Perſons whoſoever they be) for this their <hi>Iniquity;</hi> and he will bring upon you and upon the Inhabitants of <hi>England,</hi> all the Evils which He pro<g ref="char:EOLhyphen"/>nounced againſt Ye, but ye hearkened not. It is ſo in the Mind and Purpoſe of God before it is made known upon Earth; and ſo it remains notwithſtanding they ſhould forget or loſe the knowledge thereof. And it ſhall be done with thy <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>el<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and People, and the Officers under thee, according to the real Significations, and true Meaning of thoſe words which God hath publiſhed by me his Servant. And though ye have burnt that Book, yet I have by me more Copies of the ſame Book; one whereof for thy own reading and p<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>uſal. thou mayeſt have whenſoever thou wilt: And beſides what is there printed, God doth keep the ſame in my Memory, and I am ready to write again according to the ſame words which I wrote down there: and now ye have given occaſion to add many like words.</p>
+            <p>As p<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rti<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ularly I did ſhew ſome of them (the laſt Month) in a letter to the Earl of <hi>Not<g ref="char:EOLhyphen"/>tingham,</hi> which I ſuppoſe either came not to his hands, or he deſpiſed or concealed it<g ref="char:punc">▪</g> So that if I would Honour thee in the ſight of <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y People, and only ſignifie the ſame in a written Copy, this will not anſwer the End for I would have it made known unto thee. So that I am forced to publiſh even ſome more trivial Matters, which do not deſerve to be made publick. But I am willing that ſeveral Copies ſhould go out, if perhaps one may come unto thee or to thy hearing thereof. And alſo when it is printed, thou canſt more eaſily read it, than my hand-writing, which is bad and difficult</p>
+            <p>But then further, it is agreeable to the Method and Will of God, that what Sin or Evil his Creature doth ſecretly, He will both reprove and puniſh <hi>before all <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>el, and before the S<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> 2 Sam. 12. 12. Nothing is ſecret but that it ſhould be made manifeſt; and nothing is hidden but that it ſhould come abroad. So that even for ſecret private and hidden Sins, open Reproof is proper, that others may fear, and take heed of the like things. But much more for the things thou doſt openly, the ſame may in like manner be reproved from the Word of the All ſeeing God (notwithſtanding He now keeps ſilence) and ſet in order before you. I am certain, that things of a thouſand times leſs Moment are printed and publiſhed.</p>
+            <p>If I could not get Admiſſion to deliver my Books in Perſon unto thy ſelf and thy Wi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e
+<pb n="3" facs="tcp:137665:2"/> (as I was before ſhewed that I ſhould not) then the Lord directed me to leave them how<g ref="char:EOLhyphen"/>ever ſome way or other; for that would turn for a Witneſs againſt you. Which alſo ye are ſenſible and apprehenſible of And therefore perhaps that was one reaſon why ye did act this kind of Revenge and Spite againſt me, as to ſend me rather unto a w<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rſe place than that of Dragons to be covered with the ſhadow of Death; but this is among the Ravings of D<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>racted Perſons which hath ſome Repreſentation of Hell, and the Howlings of Damned Spirits But ye did not know, o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> at leaſt not throughly conſider, that this will make it turn for a yet greater Witneſs and Teſtimony againſt your ſelves. So that to ex<g ref="char:EOLhyphen"/>cuſe the Sin hereof, ye will one day wiſh that the Lord would impute M<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>neſs to you; for as the Wiſe Man ſaith, <hi>The Heart of the Son<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of M<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of evil, and Ma<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>neſs i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in their Heart while they <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ve, and after that they go to the <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</hi> Eccleſ. 9. 3. So the more W<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe and diſcerning of them, would be glad if the Lord would reckon their former Sin and Evil as Madneſs, ſo that they might either eſc<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pe, or have their Puniſhment mitigated after Death. But the All wiſe and All knowing is not as Man that He ſhould be deceived: He will miniſter true Judgment unto the People in Uprightneſs. And He will <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>pute this Act of yours not as Madneſs but as Malice. Yea to be Rebellion as the Sin of Witc<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>craft, and ſuch Stubbornneſs, which is as Iniquity and Idolatry, becauſe ye have rejected the Word of the Lord, 2 <hi>Sam.</hi> 15 23 He will adjudge it to be an higher degree of Rebellion, and a worſe ſort of Stubbornneſs than that here ſpoken of; In that ye were not only con<g ref="char:EOLhyphen"/>tented to reject his Word<g ref="char:punc">▪</g> but ye did Impriſon his Servant who came in the Meſſage and Miniſtration thereof. But here ye may be apt to ſay, Why then thou ſhouldeſt have carried away thy Books again when thou wert b<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d ſo to do; and then perhaps this Con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inement had not happened unto thee But I did not dare neglect what the Lord com<g ref="char:EOLhyphen"/>manded me<g ref="char:punc">▪</g> lea<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> I ſhould have been Diſobedient to the Voice of God within me. And ac<g ref="char:EOLhyphen"/>cordingly then I ſp<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke in as ſilent and friendly manner as one Man talketh to another, that I might deliver my Books in Perſon; but they would not admit me nor ſuffer me to leave them any where in the Houſe, but they turned me out of D<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rs And as I was going out I did not cry nor lif<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> up nor cauſe my Voice to be heard in the Ho<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe nor did I ſhew the leaſt ſign of Madneſs <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> E<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vagancy in my Deportment; but only as I was ju<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t gone without the Doors I drop'd them upon the Ground in a ſilent and peaceable manner there to re<g ref="char:EOLhyphen"/>main. And this was all my troubling of the Court (according to their Phraſe) for they call it ſo, though I did not ſpeak one word of what was contained in my Books</p>
+            <p>But here ſomewhat may be obſerved of the Work and Moving of God; for like as when <hi>the Lord looked unto the Hoſt of the Egyptians, through <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Pillar of Fire and of the Cloud, He troubled the Hoſt of <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Egyptians.</hi> Exod. 14. 24. And as is ſignified by what is written 1 <hi>Sam</hi> 16. 5. T<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Elders of the Town trembled at his coming and ſaid, <hi>Co<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſt thou Peace<g ref="char:EOLhyphen"/>able?</hi> So at the co<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing of Chriſt <hi>(<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>o was the Word, and the Word <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>as God<g ref="char:punc">▪</g>
+               </hi> John 1. 1) into the World, <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> Herod <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he King <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> theſe things, he was troubled and all</hi> Jeruſalem <hi>with him,</hi> M<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.3 In like manner each Manifeſtation or Rumor or Report of the true Wo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> God doth cauſe a Motion or Trouble in <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Hearts of the Inhabitants of the Earth; though they do only apprehend or gueſs ſomewhat; but they do not know diſtinctly what it is So that, let not People think, as if any ſtrange or new thing happened. That <hi>Richard <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> coming with the Word of God and his Righteouſneſs the outward Teſtimony whereof being Written and Printed, was the very ſame by Interpretation and his Re<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l Int<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tion, as if he ſpoke out every Sentence, Word and Syllable into their Ears; but he did not open his Lips, as to utter any thing audibly contained in it; Yet by doing ſo far only he did trouble (whom ye call, King <hi>William</hi> and Queen <hi>Ma<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> and all their O<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>icers and Servants with them. But I do hereby tell them f<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rther. That this Troubling is a ſhort and little Earneſt of a worſe thing that ſhall befall them and <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>at worſe <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>.</p>
+            <p>Likeas the Fi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e at <hi>Kenſington-Houſe</hi> was a Sign or Warning of <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat ſhould come upon his or their own Hea<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s; for as the Lord ſ<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>th, <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi> Mal. 3. 5. So in this Life God does not uſually P<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>iſh but <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſhe<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> a Token <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>t he will p<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>iſh, or rather he doth only b<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n t<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> pu<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſh And ſo in whatever Affliction he doth lay upon M<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd, Body or E<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ate, or if it be Sudden Temporal Death the or<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eems to be Cor<g ref="char:EOLhyphen"/>rection or Chaſtiſement, which is in<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erior or leſs than Puniſhment And as for Temporal Death <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:137665:3"/> And ſo the Wrath of God, which did and doth yet hover over <hi>Whitehall</hi> and <hi>Kenſington-<gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> T<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s word was ſhewed to me in my Heart, even before that Fire alſo happened at <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> in the beginning of this Year.) was lately a little kindled, and did break forth upon the latter place into devouring Fire. The former part of this Exp<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſion I ſhould have proclaimed out aloud when I was at <hi>Kenſington-Houſe,</hi> but I neglected ſo to do, for fear, (the Lord Pardon thy Servant in this thing) but I did proclaim this word on the eighth of <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> which was two days before the Fire happened there. And then I did through the <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the Priſon I was in, utter it with a loud audible diſtinct Voice, to the intent (whereof I did think at the very time) that it might be of greater Effect and Confirmation, and that it mig<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t be more rati<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed and recorded before God. And it was then anſwered in a ſtill Voice to my Heart, that it would be ſo accordingly; for a Law is of greater Force and Energy when it is proclaimed; and ſo the word is more eſtabliſhed by is being ſpoken out. This Fire did not hurt the Perſon of the two chief Inhabitants of that Houſe, nor (I ſuppoſe) ſinge the Hem of their Garment, for probably they did ariſe up and get away from it which is the com<g ref="char:EOLhyphen"/>mon and ordinary way to do in ſuch danger. But did it not terri<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ie and affect their Minds for the preſent time<g ref="char:punc">▪</g> Behold, in all this is to be diſcerned the Riches of his Goodneſs, and forbea<g ref="char:EOLhyphen"/>rance and long-ſuffering; and they are to know that the Goodneſs of God ſhould lead them to Repentance.</p>
+            <p>But the<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> according to the Doctrine of D<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>John Ti<gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ſon,</hi> in caſe of Injuries or Wrong to the outward Eſtate of another there can be no R<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pentance without Reſtitution; for in order to Repentance it is neceſſary to undo the Fault as much as it can be; and if it were to do again<g ref="char:punc">▪</g> we would not do it. This he ſpake not of himſelf (as now he is) but it was before his late Apo<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>acy or falling away, when he was only a Preacher of Gods Word, he did rightly deliver this from the very Nature o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> true Repentance; as any one may aſſuredly know that it is ſo, who underſtands what <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> ſignifies whic<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is the proper and right word in the Greek Language <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it. And notwithſtanding what the abovementioned Perſon may now flurt or ſpeak outwardly with fair words deceiving the Hearts of the Simple; or whatever ſtrong Delu<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ons he may <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gle among<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> thoſe who are <hi>Part<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cipes Criminis,</hi> who would fain be<g ref="char:EOLhyphen"/>lieve a Lye; <hi>Fac<gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>dimus q<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>od vo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>umus;</hi> yet he cannot now gainſay the ſame, leaſt he ſhould by ſpeaking contrary to the Spirit of his own mind, and ſo in the Prophets Phraſe bely the Lord; if it may be ſuppoſed that there doth any thing of God now remain in him. I do not love to Quote Authors, becauſe it is Parrot like to repeat anothers words, and we ſhould apprehend Truth as Diſtinct from Men But yet it was not altogether improper to cit<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> him by Name, that the Poor Wretch (for ſo he is no<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>withſtanding he is incloſed in his own Fat, and hath great Revenues without Right) may tremble and fear leaſt he be condemned out of his own words; and he may be hereby p<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t in mind to come to that thorough work of Repentance, to the Acknowledgment (which implies outward Confeſſion and Declaration) of the Truth</p>
+            <p>And ſeeing that the two Princes have choſen him to be their Inſtructer and Teacher, I ſhall here lay before them ſome other of his words to the following Purport. I do not de<g ref="char:EOLhyphen"/>liver that abovementioned nor yet this <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> becauſe I have not now <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s bound Book of Printed Sermons by me (out of which both theſe Sentences are taken) at this <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e; but there I have read ſo, and it is near to the following Senſe and Meaning <hi>viz.</hi> That <hi>People under the Judgments of God, are like Lead melded with Fire; <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> after they are g<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne and <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> other is removed, they <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o like <gap reason="illegible" resp="#APEX" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> retur<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> again to their <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ormer Hardneſs.</hi> In like manner, whatever ſecret Thoughts, Fears or Apprehenſions did ariſe in the Heart of the two Princes, juſt as they had <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Knowledge thereof <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or at that very time they di<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſee their own Houſe Burning, when perhaps their Heart was melted like Wax in the <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of their Bowels; if herein they would give Glory unto Go<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, by <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> o<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and telling op<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ly their Courtiers and Clergy who might tell others the ſame) <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> had at that very time. But if t<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ey <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Sall<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> will not diſcov<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of them, lea<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by ſome of their thoughts then their S<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſhould <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> what appear, and <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hey ſhould hereby con<g ref="char:EOLhyphen"/>feſs then own <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>: Hear ye give Ear be not Proud <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Lord hath ſpoken thus i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his Word; and he doth now command and require ye to give Glory unto the Lord God of <hi>Iſrae<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> and make Confeſſion unto <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, tell us <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ye did think a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that very time: Hide it not from us, give Glory unto the Lord your God before he cauſe Darkneſs, and
+<pb n="5" facs="tcp:137665:10"/> before your Feet ſtumble upon the dark Mountains; if ye will not, this is Diſobedience, and God ſhall nevertheleſs bring out and rehearſe thoſe innermoſt Thoughts, that they ſhall be made known whither ye now for a very little while chooſe, or whither ye do refuſe. But now it is ſome while ſince over, ye have almoſt forgotten it, or ye do ceaſe to be affected therewith; and ye are now again ſhut up and cloſed like the Lead or Wax afore ſpoken of. When this Judgment was juſt flaming before your Eyes, then ye could learn and underſtand Righteouſneſs; but now the Fire is quenched, ye will not practice and do it. But after your Hardneſs and Impenitent Heart, ye Treaſure up unto your ſelves Wrath againſt the day of Wrath and Revelation of the Righteous Judgment of God, who will render unto every Man according to his Deeds: Unto them that are Contentious and do not obey the Truth but obey Unrighteouſneſs (as that is exactly your caſe and of thoſe who ſide with ye) Indigna<g ref="char:EOLhyphen"/>tion and Wrath, Tribulation and Anguiſh, upon every Soul of Man that doth Evil.</p>
+            <p>What ye call my Troubling of you, it is only to prevent all that; for it is not I, but the Word and Truth which appears forth through me; and your being troubled thereat, doth ariſe from the Multitude of thine Iniquity and the Great Hatred; for Sin when it is com<g ref="char:EOLhyphen"/>mitted, doth leave Guilt behind. Now when the Sin comes to be Reproved and manifeſted, then alſo the Guilt is ſtirred up; and from hence doth ariſe Conviction, Shame, Anguiſh of Spirit (all which are very troubleſome) and fearful Expectation of what all the preſent Trouble is but a little Earneſt and Tranſient Forerunner of that Indignation and Wrath, Tribulation and Anguiſh, which ſhall for ever abide and remain upon your Immortal Spirits; which ſhall be in worſe Pains than that of Dying, and yet they ſhall never Dye. Conſider, It is good for ye now to be troubled, in order to the Saving of your Souls. And ye had better be warned of it, that ye may flee from the Wrath to come, than to be kept Ignorant, unmindful, or holden under ſtrong Deluſions unto your Dying Day, and ſo fall Eternally under it. Theſe ſtrong Deluſions are ſent unto thoſe who receive not the Love of the Truth; and they are outwardly adminiſtred by your Mealy<g ref="char:punc">▪</g> mouthed Prieſts; who do deliver in theſe ſmooth things and Deceits both in their ordinary Preaching, and Perſonal Converſation, to the Intent that they may Pleaſe and not Offend; and they call this Falſe<g ref="char:EOLhyphen"/>neſs and Per<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>idiouſneſs to their Holy Miniſtry, Good Humour and Breeding. But as to ſpeaking the things which become <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ound Doctrine, they are in the Language of the Spirit, Dumb Dogs; for ſo they are through Fear, Corruption and Sloth. And becauſe of the Multitude of them who do neglect, and leave undone thoſe things which they ought to do, I am Perſecuted as one Singular; and am as a ſpeckled Bird, <hi>the Birds round about are againſt</hi> me, <hi>Jer.</hi> 12. 9. and they do Chatter or put forth the Bill. And whereas I do, like another <hi>John Baptiſt,</hi> warn the People of this my Generation to flee from the Wrath to come; and I do mention the Law of God, which ſaith, that ſuch and ſuch things are not Lawful, that is, they ar<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not conſiſtent with, but contrary, or otherwiſe than ſuch a Law Commands or Requires. But ye are more to be blamed, and ye are worthy of ſoarer Pu<g ref="char:EOLhyphen"/>niſhment who do offend this Law, than I am thought an Offender only for making mention of this Law; for I do according to what is commanded, <hi>Lev.</hi> 19. 17. Rebuke ye, and I would not ſuffer Sin upon you But for this doing only, ye do put and ſhut me up in Priſon; for which doing to me his Servant, God will anſwer ye again as to thruſt ye down to the lower<g ref="char:EOLhyphen"/>moſt Hell.</p>
+            <p>For a common Swearer, Drunkard or Whore-monger, will receive a Reproof, and he will acknowledge his Fault and make excuſes for it; but he will not ſtrike him in the Face who ſhall give the Admonition. There doth indeed riſe up a greater degree of Rancor, Malice and Hatred againſt him that Rebukes for the Sins of Fraud and Injuſtice. But when a who<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Nation do deſpiſe and falſifie an Oath when they eſtabliſh Iniquity by a Law; When by a pretended Law of their own making, they would make void God's Law, <hi>Pſa<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m</hi> 119. 126. and his Fifth Commandment of none effect, <hi>Mat.</hi> 15. 6. by their ſayings, Tradition and Practice; for as the Phariſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es did of old, ſo do both our Rulers and Phariſees at this day, when the Nations would Reign only themſelves and would not have God Reign over them, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or his Law and Word mentioned among them if it ſhould contradict their doings and Acti<g ref="char:EOLhyphen"/>ons, Then they do impriſon, puniſh and p<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t to death him who ſ<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ll do it. But the very <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Wickedneſs and Rebellion would alſo impriſon, puniſh, put to death (if either was in their power) the Living, Almighty and Eternal God. They would lift him off from his
+<pb n="6" facs="tcp:137665:11"/> Throne (which is eſtabliſhed of old, <hi>Pſalm</hi> 93. 2.) if they could reach up and do it, for the Floods have lifted up, that is, they do think; and lift up their Voice, that is, ſpeak againſt God; yea, there is yet a third aſcending ſtep of Rebellion, they do li<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t up their Waves, that is, they act againſt God to the utmoſt of their power, as high and as far as they can reach. <hi>The Lord on h<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gh is mightier than the noiſe of many Waters; yea, than the <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Waves of the Sea,</hi> Pſal. 93. 4. He is above all the Thoughts, Words and Actions of Mortal and Rebellious Creatures. And he is not as the Idols of the <hi>Heathen</hi> to be taken Captive, ſlain or thrown down. Nevertheleſs herein he doth prove the Wickedneſs and Re<g ref="char:EOLhyphen"/>bellion of Men againſt him, for he ſends his Servants into whom he inſtils his Truth and Goodneſs; and what is done againſt them he doth interpret and receive it as done immediate<g ref="char:EOLhyphen"/>ly againſt himſelf. And ſo when he ſent his only begotten Son into the World: who was the Word and the Word was God, yet they did ſlay him the Prince of Life. And as Chriſt ſaid, <hi>He that hateth me, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ateth my Father alſo,</hi> John 15. 23. ſo if ſuch a thing may be ſup<g ref="char:EOLhyphen"/>poſed with Reverence, the ſame Wickedneſs that did ſlay his Chriſt, would (if poſſible) have killed God himſelf. And ſo for the Governors whom he hath ſet over us and calls his Anointed, the very ſame Rebellion that doth depoſe and remove the Government off from their Shoulders, becauſe it is in Mens power ſo to do, would likewiſe pull down God from Heaven and remove the Government off from his Shoulders if that was in their power alſo: For in all theſe Caſes the Murmurings and Speeches, the Actions and Doings are not againſt the Creature, but againſt the Lord, our Creator and our Governor, our Law-giver and our King. Ye ſhould quarrel not with me his Servant, but with him, becauſe he hath given ſuch Laws to Mankind; but indeed he is diſpleaſed with you, and will puniſh you for not Obeying, keeping and obſerving them, or will ye Arraign his Juſtice and Goodneſs in givings Laws to Mankind, to which are annexed ſuch exceeding great Rewards and Penalties of Eternal Life and Death; and ye ſay that they are penned ſo dark, intricate and obſcure, that ye know not when ye do obſerve them or not: But this is <hi>to utter Error againſt the Lord,</hi> Iſa. 32. 6. which is naturally Conſequent when your heart doth work Iniquity and practice Hypocri<g ref="char:EOLhyphen"/>ſie; for all this hardneſs or doubtfulneſs doth only come to paſs through the Perplexity and Confuſion of Diſobedience or Tranſgreſſion. It is becauſe ye do <hi>wickedly, and none of the wicked ſhall underſtand, but the wiſe ſhall underſtand,</hi> 12. 10. whereas if ye would <hi>turn from your Iniquities, ye might underſtand his truth,</hi> Dan. 9. 13. which ye do not <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>are, but ye are unwilling to do, and therefore like the Slothful and Wicked Servant to ex<g ref="char:EOLhyphen"/>cuſe your ſelves ye would think God to be unrighteous, or an hard Maſter, which he is neither, but ye are Perverſe and Diſobedient. <hi>The Fool hath ſaid in his heart there is no God,</hi> Pſalm 14. 1. But they which are corrupt and have done abominable Works, the Wicked, Diſobedient and Hypocrite, do wiſh and deſire that there was no God, and they would not have God Reign over them. In the Language of <hi>Moſes, David</hi> and <hi>Iſaiah,</hi> they are called <hi>Rebels:</hi> which is a very fit and proper term for them. So <hi>Samuel</hi> told <hi>Saul</hi> the King, That <hi>Rebellion is as the ſin of Witchcraft, and Stubbornneſs is as Iniquity and Ido<g ref="char:EOLhyphen"/>latry,</hi> 1 Sam. 15. 23. and this is Rebellion againſt God, the very Sin of thoſe called our Kings and Rulers at this day; And becauſe theſe have alſo rejected the Word of the Lord, I pray God to fulfil the other part of the Sentence upon them, the Lord will reject and caſt off the ſame Perſons from being Kings or Rulers over us: for they that would have others do according to their Laws, Commands and Orders, themſelves ſhould alſo do according to the Laws, Precepts and Commandments of the moſt High God.</p>
+            <p>Here it is to be obſerved, that though God had rejected <hi>Saul</hi> from that day forward in which <hi>Samuel</hi> ſpeak thus, yet he afterwards continued King over all <hi>Iſrael</hi> until he was ſlain in the Battel againſt the <hi>Philiſtines.</hi> In like manner, Thoſe at this day may as yet remain upon the outward Thro<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, though they are diſallowed of God; and it is his Mind and Purpoſe that they ſhould not be ſetled and eſtabliſhed here.</p>
+            <p>All this forementioned is no Enthuſia<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ic or ſtrange Conceit, which may be tauntingly ſaid to be proper for the Notions of <hi>Bethle<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>em Hoſpital;</hi> But it brings out the very nature of Sin, that it may appear exceeding ſinful, according as it is alſo expreſſed in the Books and Sermons of Sober and Underſtanding Divines. And hereby may be ſomewhat perceived of the Juſtice of God in inflicting an exceeding and Eternal Puniſhment for what is called light and tranſitory Offences.
+<pb n="7" facs="tcp:137665:11"/> But to return to our Subject and intended Matter, I did in that Letter ſuperſcribed to the E. of <hi>N.</hi> Chief Secretary of State, but within directed to the preſent King <hi>William,</hi> put him in mind, and alſo deſire him, that I might be brought down before him to ſpeak or read ma<g ref="char:EOLhyphen"/>ny more words unto him. And if he was fearful or apprehenſive leaſt I ſhould do them any hurt, then let him order my Hands to be bound and my Feet to be put into Fetters But as the Lord liveth, who gave to him and my ſelf Life and Being, I would not ſo much as in<g ref="char:EOLhyphen"/>jure his outward Skin, the Hairs of his Head, neither would I touch the Skirt of his Clothing; For Truth breaks no Bones, it doth only trouble in order to the ſaving of the Soul. I ſup<g ref="char:EOLhyphen"/>poſe that this my Propoſal and Deſire, was either not made known unto him, or he would not conſent unto it; knowing that if I did ſpeak words into his Ears I ſhould torment him before his time. For as the Devil ſaid ſo unto Chriſt, who was the Word of God; ſo at this Day the Word of God hath the ſame and like effect upon the Hearts of the Diſobedient, which are poſſeſſed with the Spirit of the Evil One, for this makes them Diſobedient and Wicked, for the Word of God is quick and powerful, and ſharper than a two edged Sword, p<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ercing even to the dividing a ſunder of Soul and Spirit, and is a diſcerner of the Thoughts and Intents of the Heart: So that it will vex and torture the Man, or elſe actually bring him to Repentance. It hath conſtantly this Effect where it is truly and powerfully Preach<g ref="char:EOLhyphen"/>ed (as that is ſeldom in theſe days) for it doth work an holy Violence upon Men and Wo<g ref="char:EOLhyphen"/>men, as to cauſe them to give up their ill<g ref="char:punc">▪</g> gotten Goods. <hi>Many alſo of them which uſed curious Arts, brought their Books together, and burnt them before all Men. So mightily gre<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the Word of God and prevailed,</hi> Acts 19. 19, 20. So as to them which uſe ſinful, evil and indirect Arts in other things, where the <hi>Word of God</hi> is throughly made known unto ſuch, and <hi>Prevails</hi> over their Conſciences, it doth make them forſake all thoſe ſinful and wrong ways and means: And it works them into ſuch a Condition, that they <hi>come tremb<g ref="char:EOLhyphen"/>ling to know what they muſt do to be ſaved.</hi>
+            </p>
+            <p>In like Manner where a common Perſon <hi>gets Riches and not by Right,</hi> the Spirit ſaith ex<g ref="char:EOLhyphen"/>preſly, <hi>He ſhall leave them in the midſt of his days, and at his End ſhall be a Fool,</hi> Jer. 17. 11. That is in the midſt of Poſſeſſion and Enjoyment, He ſhall have no true comfort of them, and at laſt he ſhall loſe <hi>Heaven.</hi> Now there is no Folly to be compared to the loſing of <hi>Heaven,</hi> though it be for ſome hundreds or thouſands of Pounds, which then are Slipped away from him again, where a great Perſon (whom the corrupt World doth Re<g ref="char:EOLhyphen"/>ſpect, and hath in <hi>Admiration becauſe of Advantage,</hi> but God will not excuſe him who comes to <hi>great Revenues without Right,</hi> ſeems to be a reaching out the Hand, and taking and graſping of it by Violence, when they ſhould not do it, but yet they do it, <hi>Becauſe it is in the power of their hand,</hi> Micah 2. 1. (I had a more lively Repreſentation of this in my Mind, than I can now expreſs it forth in words when I heard that the <note n="*" place="margin">Who is ſo be<g ref="char:EOLhyphen"/>cauſe He is in Adminiſtration of the Regal Au<g ref="char:EOLhyphen"/>thority.</note> King had ſeized the Seven Biſhops Revenues: <hi>So they oppreſs</hi> (or defraud) <hi>a Man and his Houſe, even a Man and his Heritage,</hi> Micah 2. 2.) And where is it done by a colour of Law and Authority; this indeed doth de<g ref="char:EOLhyphen"/>ceive the Ignorant, when wiſe and knowing Men do more abominate and loath it; much more will the All-wiſe God hate and proceed againſt it, <hi>for the Lord is a God of knowledge, and by him Actions are weighed,</hi> 1 Sam. 2. 3. And when they are weighed in the <hi>Ba<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lance of the Sanctuary,</hi> and conſidered out of the <hi>Book of the Lord,</hi> and alſo from the Nature and laſt end of things, with that abundant Reaſoning which ariſes and flows from theſe ſeveral Topicks: All this will make it plain and evidently appear to the Heart of Man, that <hi>Better is a little with Righteouſneſs, than great Revenues without Right:</hi> So that the Man will chooſe it accordingly; for by ſo doing He will be more Happy now and hereafter.</p>
+            <p>After the very ſame manner you may conceive of that which is called <hi>Government</hi> or <hi>Au<g ref="char:EOLhyphen"/>thority without Right;</hi> it is not properly <hi>Government</hi> but <hi>
+                  <g ref="char:V">Ʋ</g>ſurpation,</hi> when another takes that upon him which doth not belong or appertain to him, and then <hi>He doth lift up himſelf above the Congregation of the Lord,</hi> Numbers 16. 3. above his Brethren and Fellow-Crea<g ref="char:EOLhyphen"/>tures. And ſo even a Lawful Governour may <hi>
+                  <g ref="char:V">Ʋ</g>ſurp,</hi> when He <hi>takes too much upon him,</hi> v. 7. for both theſe kinds of <hi>
+                  <g ref="char:V">Ʋ</g>ſurpation</hi> we learn from this two-fold Saying of <hi>Korah</hi> and his Re<g ref="char:EOLhyphen"/>bellious Accomplices, had that b<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n true which they falſly object unto <hi>Moſes.</hi> So again, this is not <hi>Authority,</hi> for this ſuppoſe<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> what is Lawful, but if it is not, th<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> it may <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e more
+<pb n="8" facs="tcp:137665:5"/> properly ſtiled Power or Publick Force; which is kept up by the Adminiſtration and Exer<g ref="char:EOLhyphen"/>ciſe thereof; and it <hi>Grows ſtronger and ſtronger</hi> where it doth Oppreſs and Cruſh, and it be ſure to prevail. But if it be once contradicted with true Aſſertions, and this is made known and ſtands its Ground, then it is foiled (ſeveral whereof make a <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>all) and it grows <hi>weaker and weaker,</hi> and ſucceſſive Acts hereof will <hi>ſo <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>und i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> by the <hi>Words of Gods Truth and Rig<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>teouſn<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſs,</hi> that it <hi>ſhall no<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> b<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> able to riſe but fall und<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> our feet,</hi> Pſal. 18. 38. But where this Power and Force doth keep the upper hand, an<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> things are ſo done, whereof no better Reaſon can well be given, but only becauſe they actually are, and can ſo be done, this may be <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>itly reſembled to a <hi>company of R<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bbe<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s or armed Men.</hi> (And ſo where we read of a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Army going into another's Country to gather Contributions, it is it: Truth a great <hi>Robbe<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> and a multitude of Men that do <hi>St<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>l;</hi> which is againſt the expreſs Command of God; but ſo far doth Tranſgreſſion prevail an<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> reign over the Face of the whole Earth, that the Relation thereof is made publick and it ſeems allowable, of good Report and honorable Atchievement) who can take away what they will from weak and deſenceleſs Creatures. This the firſt do by Force and Compulſion which they muſt yield unto, leaſt further they be made Captives, Slaves or Priſoners, and ſo be girt or killed. Now becauſe this State and kind of Acting is not loved or approved by the Reaſon of Mankind, therefore to impoſe upon and delude <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> there are choſen out the more knowing Men (who are acted by <hi>Reward,</hi> for this is ſomewhat more than <hi>Hire)</hi> and theſe do lay aſide the Habiliments of War and Force, and they do Ap<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> things in a way of <hi>Law</hi> and Judiciary Proceeding Here again like Ambitious <hi>Abſalom,</hi> in <hi>Mat<g ref="char:EOLhyphen"/>ters that are G<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>od and Right,</hi> in a private Cauſe between Man and Man, wherein the Publick (for ſo they call themſelves by reaſon of their Multitude) is nothing intereſted or concerned, they will indeed do true Juſtice; for hereby they do the more cover and get Reputation for their unjuſt and <hi>unlawful Deeds;</hi> and ſo they gloſs and ſmooth the thing over by ſome pl<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſible Saying or Expreſſions, which though they are not true, yet they are <hi>Veri<gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>a,</hi> they have a likeneſs to <hi>Truth;</hi> and ſo (like bitter Gilded Pills) are ſwallowed down whole for Truth by the Ignorant and Credulous Multitude, whoſe Nature is, greedily and haſtily to catch in and receive the thing. The Multitude hath been <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>itly termed <hi>Bellua Multorum Capitum,</hi> and it is of that kind of Beaſts which doth <hi>neither chew the Cud nor divide the Hoof;</hi> for they neither conſider throughly the Nature of things, nor do they put a difference between Good and Evil, Truth and Falſhood, Right and Wrong And ſo it here comes to paſs, that the Simple <hi>believeth every Word, when a Man of underſtanding ſearcheth out the Matter.</hi> And <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> he be a Good Man alſo, he doth conceive the more Zeal and Indignation againſt it, as the more Sin and Evil is wrapped up interwoven and cunningly conceals therein As much as God doth exceed the Goodneſs, Knowledge and Wiſdom of the Creature, which is more than the whole Ocean to a ſingle drop of Water; ſo he hath a proportionable Diſpleaſure againſt <hi>Secr<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Sins and Iniquities:</hi> Which as he doth now <hi>ſet in the light of his Countenan<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> Pſal. 90. 8. So in his appointed time <hi>He will manifeſt the Counſels of the Heart,</hi> and <hi>bring o<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the hidden <gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ngs of Diſhoneſty,</hi> and the moſt cloſe Acts of Hypocriſie; and then they ſhall have Puniſhment accordingly.</p>
+            <p>But this Puniſhment is not preſently executed; for, who hath ever felt it? And who doth under<g ref="char:EOLhyphen"/>ſtand what it is? Yet there are Terrors and Remorſes of Conſcience, and a fearful Expectation of worſe things to come, all which are in deed ſenſible. We do believe that which is revealed, a<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> when a Conviction (which implies a knowledge of theſe things, and an Aſſent of the Mind that it is ſo) is wrought, then the <hi>Word of God</hi> hath its due Effect. <hi>Who knoweth the Power of thine <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> even according to thy Fear ſo is thy Wrath,</hi> Pſalm 90. 11. People do harden and ſhut themſelves <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p againſt the Senſe thereof; but when it ſhall once enter within them, <hi>when the Powers of the World to <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> ſhall break into their Minds (which the Devil hinders as much as he can) all this will make them afraid, and enforce them to do any thing to be reconciled with an Angry and Diſpleaſed God<g ref="char:punc">▪</g> And ſo becauſe that <hi>Wrath which <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>overs over the dw<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lling <gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ce of <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e Unrighteous,</hi> yea, over the very <hi>H<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>,</hi> Pſalm 63. 11. is not altogether ſo vi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ib<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e as a <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Sw<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d</hi> or <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow</hi> p<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inted at them (which alſo do no hurt at preſent, until it is laid on or diſcharged) and ſo is God prepared for Puniſhment, which he can as eaſily inflict as we can <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Moth; for he takes away their Breath and they die, and then his Sentence is executed upon the Evil Doers. And therefore it may be obſerved throughout the whole Scripture, the Puniſhment of God is ſpoken of in the future, He <hi>will</hi> or <hi>ſhall</hi> puniſh nevertheleſs becauſe his <hi>Wrath</hi> is not ſeen, it is not ſo ſenſible even to the <hi>Children and Veſſels of Wrath:</hi> Still it is real and intelligible, that is, to be under<g ref="char:EOLhyphen"/>ſtood, as they ſhall know and feel upon a dying Bed, when all the Methods of hardening do fail, then it is ſenſible and perceived from within.: Then Conſcience doth accuſe of Sin, and foreſhew of <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="9" facs="tcp:137665:5"/> ment to come. Now it would do the ſame in the midſt of Health and Life as upon a Death-bed; but heretofore Stupe<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>actions, Deluſions and Hindrances were ſought after which fail at the laſt time; and alſo they approach nearer unto God, ſo that they dare not quench his Spirit as in times paſt. Then they would not receive God and the Truth of his Word into their Knowledge; but what they did apprehend of God, was in a general and confuſed way; and what they did know concerning his word, that was a <hi>wreſting of the Scriptures to their own Deſtruction;</hi> Or rather like the <hi>Jews</hi> and <hi>Rulers</hi> of old, <hi>Acts</hi> 13. 27. <hi>Becauſe they know not God<g ref="char:punc">▪</g> nor the V<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ce of his Word read every Sabbath and Week-day.</hi> They have by ſinning againſt God fulfilled his Word to their own Condemnation. But if his <hi>Wrath</hi> did once enter within the vail of their Heart (which <hi>Va<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l</hi> is made up of Sin and Ignorance) then is that alſo fulfilled, <hi>By thy Wrath we are troubled,</hi> Pſ. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>0. 7. even at the Manifeſtation and Revelation thereof, ſo that they would not be at Reſt and Quiet until they did ceaſe from that Unrighteouſneſs to which this Wrath is annexed. And what Knowledge thereof God hath been pleaſed to ſhew unto me his Ser<g ref="char:EOLhyphen"/>vant, if I had been or might yet be ſuffered to ſpeak and declare it audibly, diſtinctly and deliberately before and unto him, it would turn the Governour to the <hi>Faith</hi> and Belief thereof, which would work ſo far, that he would actually and indeed come to Repentance and Reſtitution. By the <hi>Words of Gods Truth</hi> I ſhould actually perſwade him to give up that Kingdom (which contains Riches, Honor and Power) unto him whoſe Right it is; which he unduly took away by Force, Subtlety, Wrong and Falſhood.</p>
+            <p>But here again the <hi>Pride of Heart</hi> doth ſtruggle, That <hi>it would not be for his Honour</hi> and Credit to be ſo eaſily perſwaded out of Three Kingdoms (one whereof he <hi>got by the Sword)</hi> by a Cripple, Beggar, Mad Perſon, a ſtrange look'd Fellow <hi>(whoſe Viſage is marred more than other Men)</hi> and in a word, by him who hath undergone almoſt all the Indecencies and Shame that are incidental to Humane Nature, Whereas <hi>it is not I, but the Grace and Truth of God which appear forth through me,</hi> which is <hi>able,</hi> and alſo will (if trial be but once had) do all this here ſpoken of. And how know we, but in very deed for this cauſe hath God raiſed him up for to ſhew in him the Power of his <hi>Word</hi> and <hi>Truth,</hi> which can and alſo will <hi>bring this Stranger down,</hi> Iſa. 25. 5. &amp; 26. 5. from that State (into which he is <hi>as yet exalted)</hi> into that Station he was in before; and <hi>that the Name of God may be declared throughout all Europe,</hi> and that his <hi>Truth</hi> may be manifeſted and cleared throughout all the <hi>Reformed Churches thereof,</hi> as it hath been delivered, and all along aſſerted by me his unworthy Inſtrument. The Devil did at firſt tempt him to this Sin and Tranſgreſſion, by promiſing him more Happineſs, Good and Pleaſure, but now having had experience of it, <hi>He is wearied in the greatneſs of his way,</hi> and he knows and is ſenſible that he did before live as Happily as now, and that all his Devices which he hath brought to paſs, are not worth the expoſing himſelf to ſo much Sin and Danger as he hath done; and he would as eaſily give it all up for the real Contentment he doth find it to yield <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> But then the ſame Tempter doth continue him ſtill in the ſame Sin and Tranſgreſſion by ſuch and ſuch Thoughts or Devices. Pleaſure and Pain are the Hinge upon which all our Actions turn; and as with Deſire of the firſt he was led into this Tranſ<g ref="char:EOLhyphen"/>greſſion, ſo he being now filled, ſurfeited and wearied with that, his Soul is now become Reſtleſs: Yet he is afraid to <hi>ceaſe, turn from,</hi> and to <hi>put away the Evil of his doings, for fear</hi> of Pain and Incon<g ref="char:EOLhyphen"/>venience, as of Temporal Death or Diſgrace: Which laſt ſeems to be ſomewhat the more, becauſe of the <hi>Proſperity of his Arms,</hi> and he hath ſuch a vaſt Multitude of People of all Ranks and Degrees of his ſide. Which again is the more increaſed by reaſon of ſuch an one his Oppoſite; whom, if the People have not altogether <hi>hated without a cauſe,</hi> yet ſure I am, <hi>They have caſt Iniquity upon him, and in Wrath they have hated him,</hi> more than there is Truth and real cauſe for. There are many li<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Thoughts in the Heart of the Preſent Governour, whereunto I or the Reader may give a ſatis<g ref="char:EOLhyphen"/>factory Anſwer as they do ariſe</p>
+            <p>But as for his being afraid leaſt his Father-in-Law ſhould put him to Death for Rebellion and Treaſon, I my ſelf have propoſed that way in <hi>Page</hi> 12. of my Reprinted Book, Entituled, <hi>Things Plain and Weighty,</hi> &amp;c. That our Rightful King be Reſtored and admitted upon theſe Terms, That the moſt General Act of Oblivion and Indemnity might paſs, without any Exception to any manner of Perſon whatſoever, and not ſo much as <hi>One Man be put to Death;</hi> and I my ſelf (by reaſon of whoſe publiſhing of Truth he doth the more fear) will therefore ſtand Hoſtage or <hi>Guarranty</hi> for him, or his Friends, to anſwer <hi>Body for Body, Life for Life, Member for Member,</hi> ſo to procure and effect it, that there ſhall not be the leaſt harm done to his outward Perſon. But only he ſhall be in <hi>Stata Quo,</hi> with all the Advantages he was in before, his Debts and the Charge of his Expedition paid; either to return into <hi>Holland,</hi> or to live at <hi>Kenſington,</hi> and none ſhall moleſt or hurt him.</p>
+            <p>Indeed this thing of Temporal Death is very Terrible unto a Man that hath led a ſinful Life, to fall by a violent and ſhameful way, and then to appear before God, unto whom he muſt give account for all the Actions of his paſt Life; and then to have a final irreverſible Sentence paſs upon him of eternal Bleſſing or Condemnation. So that Men had rather (though it is with the Addition of more Sin and Guilt, go on towards the day until they come to die, <hi>or deſcend into Battel and Periſh,</hi> not conſi<g ref="char:EOLhyphen"/>dering that then alſo there muſt be the ſame, yea, and worſe account to be given, by reaſon of more Sin committed, and longer Impenitency; which is <hi>Treaſuring up Wrath againſt the day of Wrath,</hi> and involving themſelves into more Stripes and greater Miſery: For if it ſhould be ſo as here ſurmiſed, it is better to truly and un<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eignedly Repent of Sin, and venture the Temporal Danger here ſuppoſed, than to live longer only to diſobey and provoke God the more.</p>
+            <p>But thou (who art as yet called King <hi>William)</hi> ſhalt be as much aſſured and aſcertained, as that thou now Liveſt and Breatheſt, that thy moſt <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ull Pardon ſhall be had. And if thou doſt further doubt
+<pb n="10" facs="tcp:137665:6"/> thereof, to make things as ſure as poſſible, thou mayeſt, with the Forces under thy Command, remove into <hi>Holland,</hi> or into ſome diſtant Parts of this Iſland, until thou haſt his Word ratified into a Law, that all things ſhall be done according to thy reaſonable Deſire, and agreeable to this Great Time which is now drawing on, <hi>Of the Reconciliation of all Things;</hi> for <hi>Like Prince like People,</hi> this is what hinders them alſo from returning to their <hi>Due Allegiance unto their Rightful King.</hi> They have acted ſo many things againſt him, that they are afraid, if he ſhould be again inſtated and put into the Actual Adminiſtration of the <hi>Regal Power, Office and Authority,</hi> that he would be Revenged on them, and pr<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d to Puniſhment which may extend to Life, Member or Eſtate; but none of them ſhall ſuffer in the lea<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and they are Adverſaries to the King Who Dicta<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e otherwiſe) which thing muſt be included as a great, neceſſary and eſſential Term of his <hi>
+                  <gap reason="illegible" resp="#APEX" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap>;</hi> and this muſt be made as ſure, firm an<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> rati<gap reason="illegible" resp="#APEX" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> unto them, as any thing in the World can be.</p>
+            <p>N<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, it ſhall be made much more ſure than now it is, that they ſhall not loſe their Lives and Eſtates in oppoſing a Powerful Forreign Enemy, whom they have made to be their <hi>Enemy,</hi> and they have provoked and drawn him in upon themſelves. It they will now (before the <hi>more ſevere Decree come forth</hi> yield unto and accept of theſe Terms of Mercy and Reconciliation, it ſhall be made more cer<g ref="char:EOLhyphen"/>tain unto them that they ſhall be every one forgiven for whatever they have done in this Matter; then now they have falſe reaſon to think that <hi>they ſhall eſcape by Iniquity;</hi> that is, by making the <hi>Government</hi> (as they call it) as ſecure and ſtrong as ever they can, by Impriſoning, Oppreſſing and Cauſhing of all its <hi>Enemies;</hi> of whom many are <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to God</hi> by being Zealous for his law and for its Superiority over all their Ordinances and Conſtitutions; and alſo they do whatever God and Chriſt hath commanded. But here it comes to paſs, that as <hi>the Friendſhip of the World is Enmity to God;</hi> ſo here whom God vouchſafes to call his <hi>Friends,</hi> the Corrupt World doth term its <hi>Enemies.</hi> But <hi>the Lord will enter into Judgment with the Antients of the People, and with the Princes thereof</hi> (and he doth at this day ſpeak the ſame unto <hi>England) What mean ye that ye beat my People to pie<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, ſaith the Lord God of Hoſts,</hi> Iſa. 3. 14, 15. they are your Fellow-Creatures; but notwithſtanding God ſaith ſo in his Word, ye go on and continue nevertheleſs to do it: Which being contrary to his revealed Will, it doth thus become Sin and Tranſgreſſion unto you, and it draws on more Diſpleaſure of God upon your ſelves.</p>
+            <p>That Queſtion, <hi>Shall they eſcape by Iniquity,</hi> Pſal. 56. 7. implies a certain Negative, that they ſhall not eſcape, as may be yet more underſtood from what is afterwards ſaid and implied, <hi>In thine Ang<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſt down the People O God.</hi> They do day by day die ſeverally in their Sin, Treſpaſs, Iniquity and Tranſgreſſion. And beſides, it is imported that God will do according to his Method and working of Old; whereof he doth not ſpeak Plainly, but he doth ſufficiently intimate it elſewhere in his Word, how that he will by ſome ſudden unexpected Stroke, bring down and <hi>ſcatter all theſe Workers of Iniquity;</hi> and all their Iniquity which they have been ſo long ſetting up and endeavoring to ſtabliſh, ſhall fall to the Ground and come to nothing. There muſt be ſome mean time that <hi>their Iniquities may be full</hi> and ripe: As alſo this mean, while the longer it is, it will the more prove the Faith, Pati<g ref="char:EOLhyphen"/>ence and waiting of his Servants: <hi>For the Workers of Iniquity ſhall ſoon be cut down like the Graſs, and wither as the green Herb, for evil do<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rs ſhall be cut off, for yet a little while, and the Wicked ſhall not be, yea, thou ſhalt diligently conſider his place, and it ſhall not be,</hi> Pſal. 3<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 2, 9.</p>
+            <p>I remember that ſome few Years ſince, when <hi>I teſtified to my Fathers Houſe,</hi> againſt ſome parti<g ref="char:EOLhyphen"/>cular Sins and Tranſgreſſions they did then live in the Practice of, that immediately after I had done ſo, he or they did conceive a greater Degree of Enmity and Hatred (which they did vent forth in Re<g ref="char:EOLhyphen"/>proach againſt me) and a day or two afterwards they would more eagerly do the ſame whereof I did admoniſh and reprove them. But in longer proceſs of time I did obſerve he did quite leave it off, and he came off by little and hidden Degrees, not to be outwardly perceived, that it ſhould ſeem, and per<g ref="char:EOLhyphen"/>haps as he would give out (by reaſon of the <hi>Pride of Life</hi> remaining) that it ſhould not be the effect of my Preaching and or Perſuaſion (as they did tauntingly object, when neither then nor now did I ſpeak <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ny thing of my ſelf but from Gods Word only) but ſome other Cauſe or Reaſon; whereas God will more particularly rehearſe it, how they did at length refrain for fear they ſhould come to that <hi>place of Torment</hi> I did warn them of. This Relation may ſeem ſomewhat trivial, but as God was pleaſed then to bleſs my Miniſtry, ſo he doth now give me the ſame hope, that in this great matter I am now engaged in, of being called out from converting a ſingle Family or Pariſh, to ſeek and endeavor to <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a whole Nation from Iniquity unto Righteouſneſs: And I now contending earneſtly that Gods Law<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhould have the Superiority over theirs, and take place before them, though now by the Force and Aſſemblies of Violent Men, they have caſt me theſe four times into Priſon; yet I truſt ſtill (though perhaps they may come over by the like Method) that <hi>God will deliver me from the Strivings of the People,</hi> and that this Nation will yet <hi>obey the Voice of the Word of God,</hi> in Teſtimony whereof I have <hi>hazarded my Life:</hi> And now this <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſt time they detaining me in <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> longer than ever they did yet, this doth open unto me another glimpſe of Light to my former Aſſurance, that this thing will be more certainly effected, according as I have ſpoken and exhorted from the Mighty and Powerful <hi>Word of God.</hi> And that I ſhall not all along, as to my ſelf, <hi>bring <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> for trouble,</hi> and only to leave our Rulers <hi>without Excuſe</hi> and to aggravate their Si<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. But He that <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> hitherto, ſhall be at laſt <hi>taken out of the way.</hi> And they will be brought to hearken unto, and comply with thoſe Laws of their God, which I have ſet before them; and then both the inward Enmity and outward Perſecution againſt me will be alſo done away; and perhaps this laſt will not <hi>utterly</hi> ceaſe, until the
+<pb n="11" facs="tcp:137665:6"/> other be fully accompliſhed. <hi>Even ſo God grant it. Amen. I will cry unto God moſt High, unto God that performeth all things for me,</hi> Pſalm 57. 2. <hi>The Lord will perfect that which concerneth m<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>: Thy Mercy, O Lord, endureth for ever: Forſak<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> not the Work of thine own hands,</hi> Pſalm 138. 8.</p>
+            <p>But as to the Men of this World, it is a ſad and miſerable thing, when they are once dipt, involved, yea, and plunged all over into Sin; they are as it were in a Labyrinth or Maze, from which they know not how to get out; they are intangled in the <hi>Wilderneſs,</hi> and though the Thorns do ſcratch and tear and are very troubleſome, yet they prick farther and claſp more about; juſt ſuch is the Con<g ref="char:EOLhyphen"/>dition of <hi>Silly People laden with Sins.</hi> This Epithet is <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly ad led, for unleſs they had been <hi>Fooliſh</hi> and <hi>Deceived,</hi> they had never been <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> with Sins;</hi> for ſo fooliſh ugly and hateful is <hi>Sin,</hi> that when it i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> repreſented according to its real Nature, the Words and Diſcourſe (which like a Picture to the Bodily Senſes, ſo this ſhews it unto the Eyes of the Underſtanding) do alſo ſeem Fooliſh Ugly and Hateful, <hi>For he <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> himſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lf in his own Eyes, until his Iniquity is <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ound to be hateful,</hi> Pſal 36. 2. But if you come either to the ſeveral Perſons who commit the ſame, or to the <hi>ſinful Nation, a People laden with Iniquity, a S<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d of evil doers Children that are Corrupters; They have forſaken the Lord; They have provoked the Holy one of</hi> Iſrael <hi>to Anger; They are gone away backwards,</hi> Iſa. 1. 4. (all this is <hi>Eng<gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi> at this day) and exhort them to come over again unto God, and to turn from <hi>Iniquity</hi> unto <hi>Righteouſneſs,</hi> endeavour to bring them into Subjection unto his whole Land, and to do all things exactly <hi>according to the Pattern ſh<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wed in his Word.</hi> If thou doſt once begin to do all this, <hi>Briers and Thorne will be with thee, and thou wilt dwell among Scorpio<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s,</hi> Ezek. 2. 6. which will hinder and prick and hurt; ſo for the two laſt Qualities, it is like falling among a Neſt of Waſps, for beſides the Miſchief and Hart they will do, there is ſuch a Buzzing of theſe two-footed Worms, they keep ſuch a Humming and noiſe with their <hi>Words,</hi> with their ſeveral Sayings (which is but a <hi>Contradiction of Sinners)</hi> that it is all but a confuſed Imagination or deceitful Falſhood, without one Sentence of clear Reaſon or manifeſt certain Truth. Sin doth ſpread like a Leaproſie, and it doth corrupt the Underſtanding after it hath prevailed over the Will. But when the Will hath committed the Sin, then Conſcience doth begin to accuſe thereof, and there do ariſe ſo many Fears, that the Sinner is become like one walking upon brittle Ice, who is afraid at every ſtep, ſo he Trembles and knows not what to do; for <hi>F<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r is the be<g ref="char:EOLhyphen"/>traying of thoſe Succors which Reaſon offers.</hi> It making the Poor Man even to ſuſpect and alſo to re<g ref="char:EOLhyphen"/>frain from that which indeed would ſhew him the only Good, True and Right way for his Safety and Preſervation.</p>
+            <p>As for that <hi>Great Multitude</hi> wherein Man is apt to place ſo great Confidence, and to rely ſo much on, indeed it is ſomewhat where Force is to be confronted unto Force, though many times in Battel the greater Number do not get the Victory. But what ſignifies his <hi>Multitude,</hi> where not ſo much as one Man ſhall lift up his Hand againſt him. <hi>I do here from the Word of God forbid all People, under the Peril of Damnation</hi> (which will be to all thoſe who obey not the Goſpel) <hi>never to lift up a hand, much leſs to bear Arms or raiſe Tumults againſt the Preſent Governour,</hi> though he hath now taken upon him to Rule this Nation before the time it did appertain to him; for no other Contention or Strife ought to be amongſt the Creatures of God, and in a Chriſtian Country, but in <hi>Words</hi> only, ſee 2 Sam. 19. 43. for that ſhould govern the World, and ſway and determine the Actions of Men, which is moſt agree<g ref="char:EOLhyphen"/>able to the Word of God and the very Truth of Things. But then the Preſent Poſſeſſor hath the moſt to talk for him, even eleven Parts in twelve of the People of this Nation. What ſignifies that? for five Men who ſpeak words with Knowledge and Underſtanding, will avail more than ten thouſand of the Ignorant Multitude, for theſe like the gaggling o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Geeſe, or chirping of Birds, ſpeak what they have received one from another, and what themſelves do not throughly underſtand; or they ſpeak forth Falſehood or Folly, which hath an outward ſhew of Wiſdom and Truth, but in reality it is neither; or they get their Livelihood, or ſome Addition to it, by ſaying after ſuch a manner, and ſo they are Blaſſed and Corrupt. As likewiſe they do ſo ſpeak and do, if they have any Place of Honor or Credit, whereby they have the more Reſpect from their Fellow-Creatures, and are called of Men <hi>Worſhipful,</hi> or they ſpeak after ſuch a manner becauſe they hear the moſt do ſo; or to be freed from that Op<g ref="char:EOLhyphen"/>preſſion and Perſecution whereby a <hi>Man is made an Offender for a word;</hi> for indeed it is more for the Eaſe and Safety of the Fleſh to go in the <hi>way of the Multitude,</hi> and to do and to <hi>walk according to the courſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of this VVorld;</hi> but only, <hi>This is not the Right way to Heaven.</hi>
+            </p>
+            <p>But I would ask the <hi>King</hi> that now is in Poſſeſſion; <hi>(whoſe Heart is lifted up</hi> with that vaſt Multitude which is for him, and he is apt to fancy Security unto himſelf in them; whereas he is floated up with Imaginations only, if he doth repoſe in them a real and certain Safety) can any of them ſeverally, or all put together, Preſerve his Breath from going forth, or hold in one Moment longer, after the appointed time, his Spirit from flying out into that place where no Reſpect is had to what is ſo highly valued and eſteemed here. Let them pretend what they will to venture their <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and Fortunes for him, to ſight up to the Ankles and Ears in Blood and Wounds; yet, <hi>None of th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> means, Redeem his Bro<gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>r, <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> give to God a <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> for him; for the Redemption of their Soul is Precious, and it <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> for ever,</hi> Pſalm 4<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. 7, 8.</p>
+            <p>The Reaſons why People ſight for others are theſe following: Either becauſe hereby they get their Livelihood, or out of a Miſtaken Apprehen<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion of Duty or Honour; or they are <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and conſtrained ſo to do: But when all theſe are taken away, and the pretended Ca<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe, Right or Tit<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, is found to be <hi>wrong;</hi> then alſo the Fighting People do ſlide from him, and each Man deſires to be excuſed.
+<pb n="12" facs="tcp:137665:14"/> If the Reader does think this to be a bare Suppoſition of mine own, yet he may alſo perceive there is ſome Truth intermingled with it; but I am certain that is <hi>nothing but the Truth</hi> which I am now going to alledge and infer. Put the caſe that the <hi>ungodly and deceitful M<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n</hi> (for ſuch he is who will not obey the Law of God, but he doth cover his <hi>unlawful</hi> Deeds with the Cloak of Hypocriſie) <hi>ſhould not ſtand in the Judgment,</hi> Pſalm 1. 5. But i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he ſhould be condemned there, and receive the Sen<g ref="char:EOLhyphen"/>tence, <hi>Depart ye Curſed into Everlaſting Miſery.</hi> Is there now one Man among all his Loving Subjects who were ſo extraordinarily <hi>Zealous for King</hi> William) that will ſtep out and offer unto God to <hi>ex<g ref="char:EOLhyphen"/>change his Soul</hi> for him, that <hi>his Soul ſhould be in th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> others ſtead,</hi> to undergo all that eaſeleſs, end<g ref="char:EOLhyphen"/>leſs and remedileſs Torment for him: Speak now all ye <hi>Princes, Gover<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rs, Captains, Judges, Trea<g ref="char:EOLhyphen"/>ſ<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rs, Counſellors, Juſtices of Pea<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, Conſtables, Biſhops, P<gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ſts, Chaplains, Officers</hi> and <hi>Servants,</hi> and all ye <hi>Friends</hi> to the Preſent Government (who now are ſo called, and would be ſo thought) which of we all will do this for him? Let him ſtand forth and anſwer. I ſuppoſe here that every Man will hold his Peace; or if any ſhould ſpeak out haſtily and boldly, will he yet be as good as his word? or would he have God take him at his word? I trow, there is not any to be found who will <hi>ſerve King</hi> William <hi>thus far;</hi> Or if there ſhould, yet God will not accept it. <hi>None of them can by any means <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> his Brother, nor give to God <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Ranſom f<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> him.</hi> And that <hi>it <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s poſſible for a King to be Damn<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d,</hi> is as ſure as Scripture is true, <hi>For Tophet is ordained of old; yea, for the King it is prepared,</hi> Iſa. 30. 33. and ſo you may read <hi>Rev.</hi> 6. 15. what is written concerning <hi>the Kings of the Earth, and the Great M<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, and the Rich M<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n, and the Mighty Men.</hi>
+            </p>
+            <p>By the like <hi>Words of Truth</hi> (if it would not be too tedious) I could anſwer that Objection of Shame Diſgrace or Contempt, which as yet do hinder the <hi>Governour</hi> from coming to Repentance and Re<g ref="char:EOLhyphen"/>ſtitution, only by bringing out the true Nature of things. That the <hi>Shame</hi> is rather in continuing therein, than in <hi>ceaſing to do Evil;</hi> and it is Brutiſh to refuſe it, but it is moſt Reaſonable to learn to do well, and here it is alſo according to the true Proverb, <hi>Better late than never.</hi> It is better to be liable unto a ſmall and ſhort Shame at preſent (if it ſhould be ſo) than to go on in thy own way and Devices till thy Body drops into the Duſt, out of which thou ſhalt <hi>awake and riſe up to everlaſting Sh<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e and <gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>tempt;</hi> one of theſe two thou muſt and ſhalt endure. But I do again teſtifie. That it is better to be ſenſible of a little Trouble and Vexation of Mind now (which will alſo at this preſent time bring forth <note n="*" place="margin">Concerning which ſee my B<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>k of Happineſs, <hi>P.</hi> 166.</note> 
+               <hi>Peace and Content<g ref="char:EOLhyphen"/>ment of Soul)</hi> than to groan under <hi>the Worm which ſhall never die.</hi>
+            </p>
+            <p>Whatever other Thoughts do ariſe in thy Mind, there be ſure to let Knowledge and Reaſon have its perfect Work, as to conceive and apprehend the thing throughly and wholly, and then thou ſhalt find an Anſwer which will be Satisfactory even to thine Immortal and Reſtleſs Spirit. This will give <hi>Qui<g ref="char:EOLhyphen"/>etneſs and Aſſurance for ever.</hi> Do but make known <hi>the Thoughts that trouble and terrifie thee,</hi> and God may either by me or ſome other of his Servants, ſhew thee a way, or lay <hi>Wor<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> before thee, how thou mayeſt be Comforted, Delivered and Saved both Temporally and Eternally.</p>
+            <p>
+               <hi>Wherefore,</hi> O thou that are called KING, let my Counſel which I give not of my ſelf, but the Word and law of God ſaith and commands the ſame) <hi>be acceptable <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> thee, and break off thy Sins by Righteouſneſs, and thine Iniquities by making Reſtitution to thy Poor Father-in-Law.</hi> In the publick <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> about four or five Months ago, there was an Example of one who did <hi>Reſign up the Govern<g ref="char:EOLhyphen"/>ment:</hi> As this ſhews that it is poſſible, ſo let what is aforeſaid make thee Inclinable; yea, and actually do the like unto him whoſe Right <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t is, <hi>if it may be a lengthening of thy Tranquility,</hi> Dan. 4. 27. or (according to the Marginal Reading) an Healing of thine Error. I do aſſure thee, in the Name of God, and from the Truth of his Revealed Word, That if thou wilt indeed obey, and go according to all the Commandments and Directions thereof, that it will moſt certainly be a lengthening of thy Tranquility, and an Healing of thine Error: But then thou muſt hearken unto and <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>omply with the <hi>ſame Word</hi> ſpeaking on this wiſe, <hi>Turn you, Turn you, and then Iniquity ſhall not be your Ruine.</hi>
+               <q>
+                  <l>Obey, and thy Soul ſhall live;</l>
+                  <l>Do well, and thou ſhalt <hi>Fare well,</hi>
+                  </l>
+               </q>
+            </p>
+            <p>There is no Man (which I know of) who doth more earneſtly and un<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ignedly deſire the <hi>Good</hi> and <hi>Salvation of Mankind</hi> than my ſelf; for only towards the Accompliſhing of th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Great End I have written and ſuffered ſo much: But if they do ſtill from time to time <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> and are <hi>Stubborn;</hi> if they do <hi>continually provoke God</hi> and tranſgreſs his Law (as th<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> manner o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>me is to do it, the more the nearer they come to appear before him) then indeed my Compaſſion doth begin to wear off; for then it is coming towards that, <hi>The Righteous ſhall rejoyce when he ſeeth <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Vengeance,</hi> Pſal. 58. 10. for I know and aſſuredly believe, and do thereby give warning, that God, who is <hi>Holy and True,</hi> will Judge all the Inhabitants of the Earth; And <hi>He will puniſh the world for their Evil, and the wicked for their Iniquity.</hi>
+            </p>
+            <closer>To God only wiſe be Glory, through Jeſus Chriſt for ever, Amen.</closer>
+            <closer>
+               <signed>All the aforementioned Words were written by me <hi>Richard Stafford</hi> Priſoner in <hi>Beth<g ref="char:EOLhyphen"/>lehem</hi> Hoſpital,</signed> 
+               <dateline>
+                  <date>and finiſhed on <hi>Decem.</hi> 11 1691. but Printed on <hi>January</hi> 7. 1692.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb n="1" facs="tcp:137665:8"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="2" facs="tcp:137665:9"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="3" facs="tcp:137665:9"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="4" facs="tcp:137665:10"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="5" facs="tcp:137665:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="6" facs="tcp:137665:4"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="7" facs="tcp:137665:4"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="8" facs="tcp:137665:12"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="9" facs="tcp:137665:12"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="10" facs="tcp:137665:13"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="11" facs="tcp:137665:13"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="12" facs="tcp:137665:7"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:137665:14"/>
+         </div>
+      </body>
+   </text>
+</TEI>
